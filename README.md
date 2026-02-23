@@ -12,7 +12,7 @@ http://testphp.vulnweb.com
 - Browser DevTools (Manual Inspection)
 - Canva (Report Design)
 
-## 📊 Key Findings Summary
+##  Key Findings Summary
 
 | # | Vulnerability | Risk Level |
 |---|---------------|------------|
@@ -29,5 +29,4 @@ http://testphp.vulnweb.com
 
 
 
-## 👤 Prepared By
-[Your Name]
+
